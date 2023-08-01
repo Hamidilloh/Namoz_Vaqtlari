@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+body{
+    background-image: url(../Media/fon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    font-size: 3rem;
+    position: relative;
+    
+}
+h1{
+    color:rgba(203, 190, 8, 0.822);
+    text-shadow:6px 6px 8px sandybrown ;
+    text-align: center;
+}
+
+select{
+    position: absolute;
+    top: 50px;
+    right: 180px;
+    color:brown;
+    border:none;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 24px;
+    background-color: rgba(255, 244, 186, 0.645);
+}
+img{
+    width: 100%;
+    border-radius:10px;
+
+}
+.bomdod{
+    background-image: url(https://namozvaqtlari.com/templates/new/images/sunrise-3.webp?1);
+    background-position:center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    padding: 18px;
+}
+.quyosh{
+    background-image: url(https://namozvaqtlari.com/templates/new/images/fajr-2.webp?1);
+    background-position:center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    padding: 18px;
+}
+
+.peshin{
+    background-image: url(https://namozvaqtlari.com/templates/new/images/dhuhr-2.webp?1);
+    background-position:center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    padding: 18px;
+}
+
+.asr{
+    background-image: url(https://namozvaqtlari.com/templates/new/images/asr-2.webp?1);
+    background-position:center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    padding: 18px;
+}
+
+.shom{
+    background-image: url(https://namozvaqtlari.com/templates/new/images/maghrib-2.webp?1);
+    background-position:center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    padding: 18px;
+}
+
+.xufton{
+    background-image: url(	https://namozvaqtlari.com/templates/new/images/isha-2.webp?1);
+    background-position:center;
+    background-size: cover;
+    width: 250px;
+    height: 250px;
+    padding: 18px;
+}
+
+.namoz{
+    padding: 20px;
+    max-width: 100%;
+    display: flex;
+    gap: 15px 25px;
+    justify-content:center;
+    flex-wrap: wrap;
+
+
+
+}
+h2{
+    text-align: center;
+    color: rgba(20, 49, 101, 0.744);
+    font-size: 22px;
+}
+
+
+
