@@ -107,4 +107,64 @@ h2{
 }
 
 
+    
+@media screen and (max-width:700px) {
+
+    h1{
+        font-size: 40px;
+        margin-top: 20px;
+        
+        
+    }
+    h2{
+        font-size: 15px;
+    }
+    .namoz{
+        margin-top: 100px;
+    }
+    select{
+        top: 80px;
+    }
+    .quyosh{
+        padding: 13px;
+
+        width: 120px;
+        height: 120px;
+    }
+
+    .bomdod{
+        padding: 13px;
+
+        width: 120px;
+        height: 120px;
+        
+    }
+    .peshin{
+        padding: 13px;
+        width: 120px;
+        height: 120px;
+    }
+    .asr{
+        padding: 13px;
+        width: 120px;
+        height: 120px;
+    }
+    .shom{
+        padding: 13px;
+        width: 120px;
+        height: 120px;
+    }
+    .xufton{
+        padding: 13px;
+        width: 120px;
+        height: 120px;
+    }
+
+
+    }
+
+    
+
+
+
 
